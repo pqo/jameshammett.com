@@ -21,6 +21,8 @@ a:link, a:visited {
 
 #center #headshot {
   border-radius: 25%;
+  width:200px;
+  height:200px;
 }
 
 #center ul {
