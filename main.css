@@ -18,7 +18,7 @@ img {
 a:link, a:visited {
   text-decoration: none;
 }
-/* cache test*/
+
 #center {
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
