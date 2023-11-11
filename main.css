@@ -19,7 +19,7 @@ a:link, a:visited {
   margin: 0 auto;
 }
 
-#center #headshot {
+#center #pfp {
   border-radius: 25%;
   width:200px;
   height:200px;
@@ -28,10 +28,10 @@ a:link, a:visited {
 #center ul {
   list-style-type: none;
   padding-left: 0px;
-  gap: 5px;
+  gap: 10px;
   display: flex;
   flex-direction: column;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 #center ul li {
