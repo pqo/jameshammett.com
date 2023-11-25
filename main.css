@@ -25,7 +25,7 @@ a:link, a:visited {
   flex-direction: column;
   align-items: center;
   height:100%;
-  transform: translateY(7%);
+  transform: translateY(6%);
 }
 
 #center #pfp {
@@ -40,7 +40,7 @@ a:link, a:visited {
   gap: 20px;
   display: flex;
   flex-direction: column;
-  margin-top: 30px;
+  margin-top: 40px;
   max-width: 400px;
 }
 
