@@ -20,7 +20,8 @@ a:link, a:visited {
 }
 
 #center {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Average Sans', sans-serif;
+  font-size: 1em;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,8 +41,10 @@ a:link, a:visited {
   gap: 20px;
   display: flex;
   flex-direction: column;
-  margin-top: 40px;
+  margin-top: 1em;
   max-width: 400px;
+  text-align: center;
+  color: white;
 }
 
 #center ul#buttons li {
@@ -71,5 +74,5 @@ a:link, a:visited {
   flex-direction: column;
   flex-grow: 1;
   text-align: center;
-  margin-bottom: -2px;
+  margin-bottom: 0px;
 }
